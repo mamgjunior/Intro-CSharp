@@ -1,0 +1,16 @@
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\obj\Debug\net5.0\dio.bakn.csproj.AssemblyReference.cache
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\obj\Debug\net5.0\dio.bakn.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\obj\Debug\net5.0\dio.bakn.AssemblyInfoInputs.cache
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\obj\Debug\net5.0\dio.bakn.AssemblyInfo.cs
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\obj\Debug\net5.0\dio.bakn.csproj.CoreCompileInputs.cache
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\bin\Debug\net5.0\dio.bakn.exe
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\bin\Debug\net5.0\dio.bakn.deps.json
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\bin\Debug\net5.0\dio.bakn.runtimeconfig.json
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\bin\Debug\net5.0\dio.bakn.runtimeconfig.dev.json
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\bin\Debug\net5.0\dio.bakn.dll
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\bin\Debug\net5.0\ref\dio.bakn.dll
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\bin\Debug\net5.0\dio.bakn.pdb
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\obj\Debug\net5.0\dio.bakn.dll
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\obj\Debug\net5.0\ref\dio.bakn.dll
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\obj\Debug\net5.0\dio.bakn.pdb
+D:\workspace\marcos_maia\CSharp\Intro-CSharp\dio.bakn\obj\Debug\net5.0\dio.bakn.genruntimeconfig.cache
